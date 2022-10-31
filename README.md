@@ -1,6 +1,7 @@
 ![Megumin](https://wallpaperaccess.com/full/1450969.jpg)
 # Megumin
 
+Maintained by sero (rashcasm)
 A modular Telegram Python bot running on python3 with a sqlalchemy database and an entirely themed persona to make Mai suitable for Anime and Manga group chats. This is a fork of Saitama.
 
 Can be found on telegram as [Megumin](https://t.me/Megumin9bot).
